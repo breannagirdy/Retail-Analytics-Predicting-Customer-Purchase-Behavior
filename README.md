@@ -70,19 +70,6 @@ Click <a href="https://github.com/breannagirdy/Retail-Analytics-Predicting-Custo
 
 Click <a href="https://github.com/breannagirdy/Retail-Analytics-Predicting-Customer-Purchase-Behavior/blob/main/RetailAnalyticsCapstone.ipynb">here</a> to access Python.
 
-# Tableau Tasks
-
-<b>Visualize Customer Income Distribution grouped by Year of Registration</b>
-<li>Examine the breakdown of education levels and marital status using side-by-side circles to represent count.</li>
-<li>Explore the relationship between Income and Wine Spending.</li>
-<li>Analyze the frequency of purchases across various product categories.</li>
-<li>Create a dashboard using all the visualizations.</li>
-<ul>
-  
-</ul>
-
-Click <a href="https://public.tableau.com/views/HealthcareManagementSummary/HealthcareManagementSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">here</a> to view the dashboard on Tableau Public!
-
 # Conclusions
 
 We begin our analysis with a summary. According to the data collected, our average customer is 58 years of age, earns approximately $53,000 a year, spends the least amount of dollars on Fruits and the most amount of dollars on Wine. Overall, this customer shops in store with the second most frequented avenue of purchase being online. If we were to create historgrams of the most important Numerical Variables, we can observe that the amount spent on various products is consistently postivevly skewed. In other words, the customer base typically spends a small amount of money at a time on various products, however Wines is skewed more heavily to the right, indicating the occasional large, but outlier, purchase.
